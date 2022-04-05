@@ -4,8 +4,7 @@ var myVariable = dress;
 var dress ="little dress";
 
 function myDress() {
-    var myVariable = dress;
-    var dress = "ball gown";
+    var myVariable = "ball gown";
     return myVariable;
 }
 // Only change this code above this line
